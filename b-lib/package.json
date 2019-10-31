@@ -1,0 +1,20 @@
+{
+  "name": "tree-shake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack && rollup --config"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "a-lib": "1.0.0",
+    "rollup": "^1.26.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,12 @@
+{
+  "name": "a-lib",
+  "version": "1.0.0",
+  "description": "a library",
+  "module": "index.js",
+  "main": "index.js",
+  "jsnext:main": "index.js",
+  "sideEffects": false,
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
